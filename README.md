@@ -1,16 +1,59 @@
-## Hi there 👋
+## Oi, eu sou o N1nji!🥷🎮 
 
-<!--
-**N1nji/N1nji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mr. Kitty.** 
 
-Here are some ideas to get you started:
+### 🔭 Atualmente estou trabalhando em:  
+- 🕹 **Meu jogo Mr.Kitty** (um jogo de plataforma com mecânicas diferenciadas)  
+- 📱 Explorando **Flutter** para aplicativos mobile  
+- 🌐 Criando pequenos projetos em **Node.js**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Estou aprendendo:  
+- 🏗 **Godot e GDScript** (foco no desenvolvimento do meu jogo)  
+- ⚡ **Node.js** (para back-end e APIs)  
+- 📲 **Flutter** (para desenvolvimento mobile)  
+
+### 🤝 Busco colaboração em:  
+- Projetos de jogos 🎮  
+- Desenvolvimento de ferramentas para devs 🛠  
+- Open-source na área de segurança da informação 🔒
+
+### 😄 Pronomes:  
+- Ele/Dele  
+
+### ⚡ Fato curioso:  
+- Meu nome é "N1nji" porque sempre gostei de furtividade nos games e do universo ninja 🥷  
+
+---
+
+<div>
+  <a href="https://github.com/N1nji">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <h1>Edit</h1>
+  <img align="center" alt="N1nji-AE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/>
+  <img align="center" alt="N1nji-PS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
+
+<div style="display: inline_block"><br>
+  <h1>Programming</h1>
+  <img align="center" alt="N1nji-GODOT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+  <img align="center" alt="N1nji-FT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+  <img align="center" alt="N1nji-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" alt="N1nji-RT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="N1nji-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="N1nji-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="N1nji-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="N1nji-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/@n1njixp" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/n1njii/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/n1nnji" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ninjimilanesa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-felipe-9b97b315b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
