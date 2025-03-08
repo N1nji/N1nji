@@ -25,11 +25,10 @@
 
 ---
 
-<div>
-  <a href="https://github.com/N1nji">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&theme=dracula"/>
-</div>
+
+  | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="N1nji github stats" /></a> | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <div style="display: inline_block"><br>
   <h1>Edit</h1>
