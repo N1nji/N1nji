@@ -26,7 +26,9 @@
 ---
 
 
-  <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="N1nji's github stats" /></a> | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&theme=dark&hide_border=true" /></a> 
+ | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="N1nji's github stats" /></a> | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&theme=dark&hide_border=true" /></a> |
+ | ------------- | ------------- |
+
 
 
 
