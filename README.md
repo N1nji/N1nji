@@ -8,22 +8,19 @@
 🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mr. Kitty.** 
 
 ### 🔭 Atualmente estou trabalhando em:  
-- 🕹 **Meu jogo Mr.Kitty** (um jogo de plataforma com mecânicas diferenciadas)  
+- 🕹 **Meu jogo Mr. Kitty** (um jogo de plataforma com mecânicas diferenciadas)  
 - 📱 Explorando **Flutter** para aplicativos mobile  
 - 💻 Trabalhando com C++ e Dart para criar soluções poderosas e eficientes.
 
 ### 🌱 Estou aprendendo:  
-- 🏗 **Godot e GDScript** (foco no desenvolvimento do meu jogo)  
+- 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)  
 - ⚡ **Node.js** (para back-end e APIs)  
 - 📲 **Flutter** (para desenvolvimento mobile)  
 
 ### 🤝 Busco colaboração em:  
-- Projetos de jogos 🎮  
+- Desenvolvimento de jogos – desde mecânicas até design e programação 🎮 
 - Desenvolvimento de ferramentas para devs 🛠  
-- Open-source na área de segurança da informação 🔒
-
-### 😄 Pronomes:  
-- Ele/Dele  
+- Projetos open-source relacionados a jogos e gamedev 🔧
 
 ### ⚡ **Fato curioso:**  
 - Meu nome é "N1nji" porque sempre gostei de furtividade nos games e do universo ninja 🥷
