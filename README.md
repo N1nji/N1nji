@@ -27,6 +27,9 @@
 ![Portal-GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpuYmRvdngyNmEzYnNzN2FoYmwzbmN2Yndtd2I3N3hsMmV0cW9ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PgPVijEEPl6gw8WRRl/giphy.gif)
 > *"Vamos todos rir. Assim os nossos medos vão embora"* — Satsuki
 
+### **😺Agradecimentos😺**
+- Obrigado por visitar meu perfil! Se você se interessou pelo Mr. Kitty ou outros projetos, fique à vontade para explorar mais. Se tiver ideias ou sugestões, adoraria ouvir de você! ✨
+
 ---
 
 
@@ -71,9 +74,6 @@
 </div>  
 
 ---
-
-### **😺Agradecimentos😺**
-- Obrigado por visitar meu perfil! Se você se interessou pelo Mr. Kitty ou outros projetos, fique à vontade para explorar mais. Se tiver ideias ou sugestões, adoraria ouvir de você! ✨
 
 
   
