@@ -1,4 +1,5 @@
 ## Oii, eu sou o N1nji!🥷🎮 
+> *Ou Felipe se preferir... mas N1nji é melhor :D* 
 
 ![Anime-Style-Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1ZjhiM2FnNW5nNnNjenRydHV0cHhiNTk2N2owaGpnc3hhb2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGD4kdbgW0vh1S/giphy.gif)
 
@@ -71,4 +72,11 @@
   <a href = "mailto:ninjimilanesa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-felipe-9b97b315b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
+
+---
+
+### **😺Agradecimentos😺**
+- Obrigado por visitar meu perfil! Se você se interessou pelo Mr. Kitty ou outros projetos, fique à vontade para explorar mais. Se tiver ideias ou sugestões, adoraria ouvir de você! ✨
+
+
   
