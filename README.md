@@ -1,4 +1,7 @@
-## Oi, eu sou o N1nji!🥷🎮 
+## Oii, eu sou o N1nji!🥷🎮 
+
+![Anime-Style-Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1ZjhiM2FnNW5nNnNjenRydHV0cHhiNTk2N2owaGpnc3hhb2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGD4kdbgW0vh1S/giphy.gif)
+---
 
 🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mr. Kitty.** 
 
@@ -20,8 +23,10 @@
 ### 😄 Pronomes:  
 - Ele/Dele  
 
-### ⚡ Fato curioso:  
-- Meu nome é "N1nji" porque sempre gostei de furtividade nos games e do universo ninja 🥷  
+### ⚡ **Fato curioso:**  
+- Meu nome é "N1nji" porque sempre gostei de furtividade nos games e do universo ninja 🥷
+![Portal-GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpuYmRvdngyNmEzYnNzN2FoYmwzbmN2Yndtd2I3N3hsMmV0cW9ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PgPVijEEPl6gw8WRRl/giphy.gif)
+> *"Vamos todos rir. Assim os nossos medos vão embora"* — Satsuki
 
 ---
 
