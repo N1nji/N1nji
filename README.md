@@ -10,7 +10,7 @@
 ### 🔭 Atualmente estou trabalhando em:  
 - 🕹 **Meu jogo Mr.Kitty** (um jogo de plataforma com mecânicas diferenciadas)  
 - 📱 Explorando **Flutter** para aplicativos mobile  
-- 🌐 Criando pequenos projetos em **Node.js**  
+- 💻 Trabalhando com C++ e Dart para criar soluções poderosas e eficientes.
 
 ### 🌱 Estou aprendendo:  
 - 🏗 **Godot e GDScript** (foco no desenvolvimento do meu jogo)  
