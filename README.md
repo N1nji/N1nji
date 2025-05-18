@@ -8,16 +8,16 @@
 🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mr. Kitty.** 
 
 ### 🔭 Atualmente estou trabalhando em:  
-- 🕹 **Meu jogo Mr. Kitty** (um jogo de plataforma com mecânicas diferenciadas)  
-- 📱 Explorando **Flutter** para aplicativos mobile  
-- 💻 Trabalhando com C++ para criar soluções poderosas e eficientes.
+- 🕹 **Meu jogo Mister Kitty** (um jogo de plataforma com mecânicas diferenciadas)  
 
 ### 🌱 Estou aprendendo:  
-- 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)  
+- 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
+- 🎮 **Unity, Unreal Engine & Blender**
 - ⚡ **Node.js** (para back-end e APIs)  
-- 📲 **Flutter** (para desenvolvimento mobile)  
+- 📲 **Flutter** (para desenvolvimento mobile)
+- 💻 C++ para criar soluções poderosas e eficientes.
 
-### 🤝 Busco colaboração em:  
+### ☁️ Busco colaboração em:  
 - Desenvolvimento de jogos – desde mecânicas até design e programação 🎮 
 - Desenvolvimento de ferramentas para devs 🛠  
 - Projetos open-source relacionados a jogos e gamedev 🔧
