@@ -12,8 +12,9 @@
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![godot](https://img.shields.io/badge/Godot-4.4-blue)
 ![language](https://img.shields.io/badge/linguagem-GDScript-purple)
-> 
-<i class="fa-brands fa-itch-io"> [Itch.io](https://n1nji.itch.io/mister-kitty) </i>
+>
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+ [Itch.io](https://n1nji.itch.io/mister-kitty) </i>
 
 ### 🌱 Estou aprendendo:  
 - 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
