@@ -13,9 +13,8 @@
 ![godot](https://img.shields.io/badge/Godot-4.4-blue)
 ![language](https://img.shields.io/badge/linguagem-GDScript-purple)
 >
-![Itch.io](https://n1nji.itch.io/mister-kitty)
+[![Play on Itch.io](https://img.shields.io/badge/Play-Mister%20Kitty-red?style=for-the-badge&logo=itch-io)](https://n1nji.itch.io/mister-kitty)
 
-<i class="cib-itch-io"></i>
 
 ### 🌱 Estou aprendendo:  
 - 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
