@@ -44,7 +44,7 @@
 
 
 <div style="display: inline_block"><br>
-  <h1>Edit</h1>
+  <h1>Adobe</h1>
   <img align="center" alt="N1nji-AE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/>
   <img align="center" alt="N1nji-PS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
 
