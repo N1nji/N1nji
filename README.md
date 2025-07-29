@@ -18,7 +18,6 @@
 - 🎮 **Unity, Unreal Engine & Blender**
 - ⚡ **Node.js** (para back-end e APIs)  
 - 📲 **Flutter** (para desenvolvimento mobile)
-- 💻 C++ para criar soluções poderosas e eficientes.
 
 ### ☁️ Busco colaboração em:  
 - Desenvolvimento de jogos – desde mecânicas até design e programação 🎮 
