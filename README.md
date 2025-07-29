@@ -1,4 +1,4 @@
-## Oii, eu sou o N1nji!🥷🎮 
+## Eu sou o N1nji - Game Developer & Criador do Mister Kitty | FullStack Dev | CEO & Co-Founder @ N1S1 Games 
 > *Ou Felipe se preferir... mas N1nji é melhor :D* 
 
 ![Anime-Style-Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1ZjhiM2FnNW5nNnNjenRydHV0cHhiNTk2N2owaGpnc3hhb2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGD4kdbgW0vh1S/giphy.gif)
@@ -7,8 +7,11 @@
 
 🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mr. Kitty.** 
 
-### 🔭 Atualmente estou trabalhando em:  
-- 🕹 **Meu jogo Mister Kitty** (um jogo de plataforma com mecânicas diferenciadas)  
+### 🎮 Projeto em destaque: [Mister Kitty](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
+> Um jogo de plataforma fofo contando a história de um gatinho (inspirado em um gato real) com narrativa e desafios únicos✨
+![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![godot](https://img.shields.io/badge/Godot-4.4-blue)
+![language](https://img.shields.io/badge/linguagem-GDScript-purple)
 
 ### 🌱 Estou aprendendo:  
 - 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
