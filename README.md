@@ -15,6 +15,8 @@
 >
 ![Itch.io](https://n1nji.itch.io/mister-kitty)
 
+<i class="cib-itch-io"></i>
+
 ### 🌱 Estou aprendendo:  
 - 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
 - 🎮 **Unity, Unreal Engine & Blender**
