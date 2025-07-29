@@ -13,7 +13,10 @@
 ![godot](https://img.shields.io/badge/Godot-4.4-blue)
 ![language](https://img.shields.io/badge/linguagem-GDScript-purple)
 >
-[![Play on Itch.io](https://img.shields.io/badge/Play-Mister%20Kitty-red?style=for-the-badge&logo=itch-io)](https://n1nji.itch.io/mister-kitty)
+
+- 🎮 [Mr. Kitty no Itch.io](https://n1nji.itch.io/mister-kitty)  
+  [![Itch.io](https://upload.wikimedia.org/wikipedia/commons/6/60/Itch_io_icon.svg)](https://n1nji.itch.io/mister-kitty)
+
 
 
 ### 🌱 Estou aprendendo:  
