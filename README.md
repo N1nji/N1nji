@@ -1,4 +1,4 @@
-## Eu sou o N1nji - Game Developer & Criador do Mister Kitty | FullStack Dev | CEO & Co-Founder @ N1S1 Games 
+## Eu sou o N1nji — Game Developer & Criador do Mister Kitty | FullStack Dev | CEO & Co-Founder @ N1S1 Games 
 > *Ou Felipe se preferir... mas N1nji é melhor :D* 
 
 ![Anime-Style-Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1ZjhiM2FnNW5nNnNjenRydHV0cHhiNTk2N2owaGpnc3hhb2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGD4kdbgW0vh1S/giphy.gif)
