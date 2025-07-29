@@ -5,13 +5,14 @@
 
 ---
 
-🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mr. Kitty.** 
+🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mister Kitty.** 
 
 ### 🎮 Projeto em destaque: [Mister Kitty](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
 > Um jogo de plataforma fofo contando a história de um gatinho (inspirado em um gato real) com narrativa e desafios únicos✨
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![godot](https://img.shields.io/badge/Godot-4.4-blue)
 ![language](https://img.shields.io/badge/linguagem-GDScript-purple)
+![itch.io](https://n1nji.itch.io/mister-kitty)
 
 ### 🌱 Estou aprendendo:  
 - 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
