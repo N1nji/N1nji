@@ -14,7 +14,7 @@
 ![language](https://img.shields.io/badge/linguagem-GDScript-purple)
 >
 
-[Mister Kitty: Demo no Itch.io] </br>
+[Mister Kitty: Prototype version no Itch.io] </br>
 [![Play on Itch.io](https://img.shields.io/badge/Play-Mister%20Kitty-red?style=for-the-badge&logo=itch-io)](https://n1nji.itch.io/mister-kitty)
 
 
