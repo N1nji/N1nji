@@ -5,7 +5,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Game+Developer;Building+Mister+Kitty;Future+Game+Engineer;FullStack+Dev)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Game+Developer;Building+Mister+Kitty;+Game+Engineer;FullStack+Dev)
 
 
 🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mister Kitty.** 
