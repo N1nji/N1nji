@@ -5,11 +5,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/N1nji/N1nji/blob/output/github-contribution-grid-snake.svg)
-
-
 🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mister Kitty.** 
 
 ### 🎮 Projeto em destaque: [Mister Kitty](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
