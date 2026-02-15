@@ -1,4 +1,4 @@
-## Eu sou o N1nji — Game Developer & Criador do Mister Kitty | FullStack Dev | Co-Founder @ N1S1 Games 
+## Eu sou o N1nji — Game Developer & Criador do Mister Kitty | Backend Developer | Co-Founder @ N1S1 Games 
 > *Ou Felipe se preferir... mas N1nji é melhor :D* 
 
 ![Anime-Style-Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1ZjhiM2FnNW5nNnNjenRydHV0cHhiNTk2N2owaGpnc3hhb2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGD4kdbgW0vh1S/giphy.gif)
@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Game+Developer;Building+Mister+Kitty;+Game+Engineer;FullStack+Dev)
 
 
-🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mister Kitty.** 
+🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Unity chamado **Mister Kitty.** 
 
 ### 🎮 Projeto em destaque: [Mister Kitty](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
 > Um jogo de plataforma fofo contando a história de um gatinho (inspirado em um gato real) com narrativa e desafios únicos✨
@@ -23,11 +23,41 @@
 
 
 
-### 🌱 Estou aprendendo:  
-- 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
-- 🎮 **Unity, Unreal Engine & Blender**
-- ⚡ **Node.js** (para back-end e APIs)  
-- 📲 **Flutter** (para desenvolvimento mobile)
+###  Tech Stack & Ferramentas
+
+#### 🎮 Game Development
+- **Unity** (C#)
+- **Godot** (GDScript)
+- **Unreal Engine**
+- **Blender** (modelagem e assets)
+- Engenharia de Jogos
+- Otimização e Performance
+- Padrões de Projeto
+
+#### 🧠 Back-end & Arquitetura
+- **C# / .NET**
+- **Node.js**
+- APIs REST
+- Conceitos de Clean Architecture
+- Programação Orientada a Objetos (POO)
+
+#### 📱 Desenvolvimento Mobile
+- **Flutter**
+- Dart
+
+#### 🗄️ Banco de Dados
+- PostgreSQL
+- Supabase (Baas)
+- MongoDB (NoSQL)
+- Modelagem de Dados Relacional
+
+#### 🛠️ Outras Competências
+- Git & GitHub
+- CI/CD
+- Regras de negócio
+- Lógica de Programação
+- Estrutura de Dados
+- Análise e Modelagem de Requisitos
 
 ### ☁️ Busco colaboração em:  
 - Desenvolvimento de jogos – desde mecânicas até design e programação 🎮 
@@ -53,32 +83,59 @@
 
 
 
-<div style="display: inline_block"><br>
-  <h1>Adobe</h1>
-  <img align="center" alt="N1nji-AE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/>
-  <img align="center" alt="N1nji-PS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
+<h2>💻 Programming Languages</h2>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+</div>
 
-<div style="display: inline_block"><br>
-  <h1>Programming</h1>
-  <img align="center" alt="N1nji-GODOT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
- <img align="center" alt="N1nji-UNITY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-  <img align="center" alt="N1nji-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="N1nji-DART" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"/>
-  <img align="center" alt="N1nji-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="N1nji-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="N1nji-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="N1nji-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" alt="N1nji-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="N1nji-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<h3>⚙️ Back-end Frameworks</h3>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
+
+<h2>🎮 Game Development</h2>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+</div>
+
+<h2>🗄️ Databases</h2>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
   
-<div style="dispay: inline_block"><br>
-  <h1>Frameworks</h1>
-  <img align="center" alt="N1nji-FRAMEWORK" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="N1nji-FT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="N1nji-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img align="center" alt="N1nji-Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img align="center" alt="N1nji-Famer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"/>
-  
+<h2>🌐 Front-end Frameworks</h2>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+</div>
+
+<h2>🎨 UI & Styling</h2>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg"/>
+</div>
+
+<h3>🎨 Creative & Visual Tools</h3>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+</div>
+
+<h2>📱 Mobile</h2>
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+</div>
+
   
   ##
  
