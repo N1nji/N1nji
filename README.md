@@ -74,7 +74,7 @@
 
 ---
 
-## 🟡 Contribution Graph
+<h2 align="center">🟡 Pacman Contribution Graph</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/N1nji/N1nji/output/pacman.svg" />
