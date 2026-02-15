@@ -1,94 +1,103 @@
-## Eu sou o N1nji — Game Developer & Criador do Mister Kitty | FullStack Dev | Co-Founder @ N1S1 Games 
-> *Ou Felipe se preferir... mas N1nji é melhor :D* 
+# 🥷 N1nji — Game Engineer in Progress  
 
-![Anime-Style-Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1ZjhiM2FnNW5nNnNjenRydHV0cHhiNTk2N2owaGpnc3hhb2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGD4kdbgW0vh1S/giphy.gif)
+> Também conhecido como Felipe… mas N1nji soa melhor 😼  
+
+🎮 Game Developer  
+🧠 Estudante de Engenharia de Jogos  
+💻 FullStack Dev  
+🚀 Co-Founder @ N1S1 Games  
 
 ---
 
-🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Godot e GDScript chamado **Mister Kitty.** 
+## 🎮 Projeto Principal — Mister Kitty
 
-### 🎮 Projeto em destaque: [Mister Kitty](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
-> Um jogo de plataforma fofo contando a história de um gatinho (inspirado em um gato real) com narrativa e desafios únicos✨
+Um jogo de plataforma 2D desenvolvido com Godot 4.4 e GDScript.  
+
+Mister Kitty conta a jornada de um gatinho perdido tentando voltar para casa, enfrentando desafios, mecânicas únicas e narrativa leve.
+
+🔧 Atualmente focado em:
+- Arquitetura de projeto
+- Organização de código
+- Sistemas reutilizáveis
+- Cutscenes e narrativa interativa
+- Sistemas como loja, pesca e progressão
+
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![godot](https://img.shields.io/badge/Godot-4.4-blue)
 ![language](https://img.shields.io/badge/linguagem-GDScript-purple)
->
 
-[Mister Kitty: Prototype version no Itch.io] </br>
-[![Play on Itch.io](https://img.shields.io/badge/Play-Mister%20Kitty-red?style=for-the-badge&logo=itch-io)](https://n1nji.itch.io/mister-kitty)
-
-
-
-
-### 🌱 Estou aprendendo:  
-- 🏗 **Godot Engine e GDScript** (foco no desenvolvimento do meu jogo)
-- 🎮 **Unity, Unreal Engine & Blender**
-- ⚡ **Node.js** (para back-end e APIs)  
-- 📲 **Flutter** (para desenvolvimento mobile)
-
-### ☁️ Busco colaboração em:  
-- Desenvolvimento de jogos – desde mecânicas até design e programação 🎮 
-- Desenvolvimento de ferramentas para devs 🛠  
-- Projetos open-source relacionados a jogos e gamedev 🔧
-
-### 💡 **Fato curioso:**  
-- Meu nome "N1nji" surgiu de um personagem de Tokyo Revengers chamado Manjiro Sano e porque eu também curto ninjas! 🥷
-![Portal-GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpuYmRvdngyNmEzYnNzN2FoYmwzbmN2Yndtd2I3N3hsMmV0cW9ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PgPVijEEPl6gw8WRRl/giphy.gif)
-> *"Vamos todos rir. Assim os nossos medos vão embora"* — Satsuki
-
-### **😺Agradecimentos😺**
-- Obrigado por visitar meu perfil! Se você se interessou pelo Mister Kitty ou outros projetos, fique à vontade para explorar mais. Se tiver ideias ou sugestões, adoraria ouvir de você! ✨
+🎮 [Repositório no GitHub](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
+🎮 [Prototype no Itch.io](https://n1nji.itch.io/mister-kitty)
 
 ---
 
+## 🧠 Minha Jornada Atual
 
- | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="N1nji's github stats" /></a> | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&theme=dark&hide_border=true" /></a> |
- | ------------- | ------------- |
+Estou evoluindo de "fazedor de jogos" para **engenheiro de jogos**.
 
- ---
+Atualmente estudando:
 
+### 🎮 Game Development
+- Godot Engine (arquitetura interna, nodes, signals)
+- Unity (C# e padrões de projeto)
+- Game architecture
+- Design Patterns aplicados a jogos
+- Matemática para jogos
+- Otimização
 
+### 💻 Backend & System Design
+- Node.js
+- APIs REST
+- Filas e processamento assíncrono
+- Conceitos de arquitetura escalável
+- Cloud & DevOps (em estudo)
 
-
-<div style="display: inline_block"><br>
-  <h1>Adobe</h1>
-  <img align="center" alt="N1nji-AE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"/>
-  <img align="center" alt="N1nji-PS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
-
-<div style="display: inline_block"><br>
-  <h1>Programming</h1>
-  <img align="center" alt="N1nji-GODOT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
- <img align="center" alt="N1nji-UNITY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-  <img align="center" alt="N1nji-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="N1nji-DART" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"/>
-  <img align="center" alt="N1nji-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="N1nji-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="N1nji-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="N1nji-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-  <img align="center" alt="N1nji-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="N1nji-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  
-<div style="dispay: inline_block"><br>
-  <h1>Frameworks</h1>
-  <img align="center" alt="N1nji-FRAMEWORK" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="N1nji-FT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="N1nji-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img align="center" alt="N1nji-Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img align="center" alt="N1nji-Famer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"/>
-  
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/@n1njii" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/n1njii/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/n1nnji" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ninjimilanesa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrofelipe-n1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/n1njimilanesa" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" target="_blank"> </a>
-</div>  
+### 📱 Mobile
+- Flutter
+- Integração com backend
 
 ---
 
+## 🛠 Stack Principal
 
-  
+### 🎮 Game
+Godot • Unity • C# • GDScript  
+
+### 🌐 Web & Backend
+Node.js • JavaScript • MongoDB • REST APIs  
+
+### 📱 Mobile
+Flutter • Dart  
+
+### 🎨 Ferramentas
+Blender • Photoshop • After Effects  
+
+---
+
+## 🔥 Filosofia
+
+Eu não quero apenas fazer jogos.  
+Quero entender como eles funcionam por dentro.
+
+- Arquitetura antes de código
+- Organização antes de feature
+- Sistema antes de improviso
+- Engenharia antes de sorte
+
+---
+
+## 📊 GitHub Stats
+
+|  |  |
+|--|--|
+| ![stats](https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&theme=dark&hide_border=true) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&theme=dark&hide_border=true) |
+
+---
+
+## 🌎 Onde me encontrar
+
+YouTube • Twitch • LinkedIn • Instagram • X  
+
+---
+
+> "Vamos todos rir. Assim os nossos medos vão embora."  
