@@ -1,4 +1,4 @@
-## N1nji — Game & Backend Developer, Creator of Mister Kitty • Co-Founder at N1S1 Games 
+## N1nji — Game & Backend Developer • Mister Kitty • Co-Founder at N1S1 Games 
 > *Ou Felipe se preferir... mas N1nji é melhor :D* 
 
 ![Anime-Style-Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1ZjhiM2FnNW5nNnNjenRydHV0cHhiNTk2N2owaGpnc3hhb2gwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGD4kdbgW0vh1S/giphy.gif)
@@ -8,13 +8,38 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Game+Developer;Building+Mister+Kitty;+Game+Engineer;Backend+Developer)
 
 
-🎮 Apaixonado por tecnologia e desenvolvimento de jogos! Atualmente, estou focado no meu primeiro jogo usando Unity chamado **Mister Kitty.** 
+<div align="center">
+
+# Eu sou **Pedro Felipe** (também conhecido como **N1nji**)
+
+### 🎮 Desenvolvedor Backend • Desenvolvedor Jogos • Mister Kitty
+
+*Construindo jogos com paixão.*
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou **Pedro Felipe**, embora a maioria das pessoas me conheça como **N1nji**.
+
+Durante o dia, atuo como **Desenvolvedor Backend**, criando soluções escaláveis com **C#** e **.NET**.
+
+Fora do trabalho, dedico meu tempo ao desenvolvimento de **Mister Kitty**, um jogo de plataforma indie onde projeto sistemas de gameplay, arquitetura, ferramentas, IA, interfaces e tudo o que transforma ideias em experiências memoráveis para os jogadores.
+
+Sou apaixonado por resolver problemas, escrever código limpo e evoluir continuamente, tanto como engenheiro de software quanto como desenvolvedor de jogos.
+
+> **Meu sonho é criar jogos que as pessoas continuem lembrando por muitos anos.**
+
+<br>
+
 
 ### 🎮 Projeto em destaque: [Mister Kitty](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
 > Um jogo de plataforma fofo contando a história de um gatinho (inspirado em um gato real) com narrativa e desafios únicos✨
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![godot](https://img.shields.io/badge/Godot-4.4-blue)
-![language](https://img.shields.io/badge/linguagem-GDScript-purple)
+![unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![language](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 >
 
 [Mister Kitty: Prototype version no Itch.io] </br>
@@ -104,7 +129,6 @@ _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 </div>
 
 <h2>🗄️ Databases</h2>
