@@ -28,34 +28,27 @@
 #### 🎮 Game Development
 - **Unity** (C#)
 - **Godot** (GDScript)
-- **Unreal Engine**
-- **Blender** (modelagem e assets)
-- Engenharia de Jogos
-- Otimização e Performance
-- Padrões de Projeto
+- **Gameplay Programming**
+- **AI**
+- **Tools**
+- **Game Architecture**
+
 
 #### 🧠 Back-end & Arquitetura
 - **C# / .NET**
-- **Node.js**
-- APIs REST
-- Conceitos de Clean Architecture
-- Programação Orientada a Objetos (POO)
-
-#### 📱 Desenvolvimento Mobile
-- **Flutter**
-- Dart
+- APIs REST e gRPC
+- Clean Architecture
+- SOLID
 
 #### 🗄️ Banco de Dados
 - PostgreSQL
 - Supabase (Baas)
 - MongoDB (NoSQL)
-- Modelagem de Dados Relacional
 
 #### 🛠️ Outras Competências
 - Git & GitHub
 - CI/CD
 - Regras de negócio
-- Lógica de Programação
 - Estrutura de Dados
 - Análise e Modelagem de Requisitos
 
@@ -99,14 +92,11 @@ _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </div>
 
 <h3>⚙️ Back-end Frameworks</h3>
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
@@ -122,12 +112,6 @@ _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
-  
-<h2>🌐 Front-end Frameworks</h2>
-<div>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</div>
 
 <h2>🎨 UI & Styling</h2>
 <div>
@@ -142,12 +126,6 @@ _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.i
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 </div>
-
-<h2>📱 Mobile</h2>
-<div>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-</div>
-
   
   ##
  
