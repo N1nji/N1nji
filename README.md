@@ -102,16 +102,7 @@ Sou apaixonado por resolver problemas, escrever código limpo e evoluir continua
 _Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 
-
-
-
- | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=N1nji&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="N1nji's github stats" /></a> | <a href="https://github.com/N1nji/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nji&layout=compact&theme=dark&hide_border=true" /></a> |
- | ------------- | ------------- |
-
- ---
-
-
-
+---
 
 <h2>💻 Programming Languages</h2>
 <div>
