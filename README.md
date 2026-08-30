@@ -12,9 +12,9 @@
 
 # Eu sou **Pedro Felipe** (também conhecido como **N1nji**)
 
-### 🎮 Desenvolvedor Backend • Desenvolvedor Jogos • Mister Kitty
+### 🎮 Desenvolvedor de Software • Desenvolvedor Jogos
 
-*Construindo jogos com paixão.*
+*Construindo jogos.*
 
 </div>
 
