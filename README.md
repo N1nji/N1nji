@@ -37,7 +37,7 @@ Sou apaixonado por resolver problemas, escrever código limpo e evoluir continua
 
 ### 🎮 Projeto em destaque: [Mister Kitty](https://github.com/N1nji/Mister-Kitty-A-Meowtastic-Adventure)  
 > Um jogo de plataforma fofo contando a história de um gatinho (inspirado em um gato real) com narrativa e desafios únicos✨
-![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![status](https://img.shields.io/badge/status-em%20desenvolvimento-red)
 ![unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![language](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 >
