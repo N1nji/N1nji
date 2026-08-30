@@ -26,7 +26,7 @@ Sou **Pedro Felipe**, embora a maioria das pessoas me conheça como **N1nji**.
 
 Durante o dia, atuo como **Desenvolvedor Backend**, criando soluções escaláveis com **C#** e **.NET**.
 
-Fora do trabalho, dedico meu tempo ao desenvolvimento de **Mister Kitty**, um jogo de plataforma indie onde projeto sistemas de gameplay, arquitetura, ferramentas, IA, interfaces e tudo o que transforma ideias em experiências memoráveis para os jogadores.
+Fora do trabalho, dedico meu tempo ao desenvolvimento jogos onde projeto sistemas de gameplay, arquitetura, ferramentas, IA, interfaces e tudo o que transforma ideias em experiências memoráveis para os jogadores.
 
 Sou apaixonado por resolver problemas, escrever código limpo e evoluir continuamente, tanto como engenheiro de software quanto como desenvolvedor de jogos.
 
