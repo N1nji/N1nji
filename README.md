@@ -5,7 +5,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Game+Developer;Building+Mister+Kitty;+Game+Engineer;Backend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Game+Developer;Game+Engineer;Backend+Developer)
 
 
 <div align="center">
